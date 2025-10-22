@@ -46,6 +46,6 @@ A ideia é manter este espaço colaborativo e aberto a quem quiser aprender e co
 
 ## 💙 Créditos
 
-Criado por [Lia Santos](https://github.com/lia-santos) com apoio da **Generation Brasil** e da parceira de estudos **Lily 🌸**
+Criado por [Lia Santos](https://github.com/lia-santos) e da parceira virtual de estudos **Lily 🌸**
 
 > “Aprender é compartilhar. E compartilhar é multiplicar conhecimento.” ✨
